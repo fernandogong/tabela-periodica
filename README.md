@@ -1,4 +1,4 @@
-# tabela-periodica
+<h1 align="center">Tabela Periódica</h1>
 
 <div align="center">
     <img src="tabela.png" alt="tabela periodica">
